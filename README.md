@@ -11,3 +11,13 @@ You can also spin up a free Heroku dyno to test it out:
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/socketio/chat-example)
 
 Besides, the application is deployed on [Now](https://zeit.co/now): https://socketio-chat-example.now.sh/
+
+
+# HomeWork
+- [ ] Broadcast a message to connected users when someone connects or disconnects
+- [ ] Add support for nicknames
+- [ ] Don’t send the same message to the user that sent it himself. Instead, append the message directly as soon as he presses enter.
+- [ ] Add “{user} is typing” functionality
+- [ ] Show who’s online
+- [ ] Add private messaging
+- [ ] Share your improvements!
